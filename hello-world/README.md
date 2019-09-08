@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This assumes you have [Homebrew](https://brew.sh/) and [rbenv](https://github.com/rbenv/rbenv) installed for managing Ruby versions. If your setup is different then just make sure your Ruby version is capable of running Rails 6.
+This assumes you have [Homebrew](https://brew.sh/) and [rbenv](https://github.com/rbenv/rbenv) installed for managing Ruby versions. If your setup is different then just make sure your Ruby version (>= 2.5) is capable of running Rails 6.
 
     brew update && brew upgrade ruby-build
     rbenv install 2.6.4
